@@ -1,6 +1,6 @@
 # Love-Babbar-DSA-series-
 
-I have covered all the codes taught in the series which account to my daiy learnings. 
+I have covered all the codes taught in the series which account to my daily learnings. 
 
 Have a good time here! 
 
