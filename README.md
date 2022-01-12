@@ -14,4 +14,4 @@ LECTURE 3 : if-else and While LOOP.
 
 LECTURE 4 : PATTERNS ( SQUARE , TRAINGLE , STARS , NUMBERIC , ALPHABETICAL , WITH SPACES And DABANGG PATTERN Also!!!)
 
-LECTURE 5 : 
+LECTURE 5 : Bitwise Operators (AND) &,( OR) |,(NOT) ~,(XOR) ^, (Left) << And (Right) >> Shift,(Pre/Post Increment) [++i/++i], (Pre/Post Decrement) [--i/i--], HW Output Questions
