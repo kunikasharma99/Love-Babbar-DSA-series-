@@ -14,7 +14,8 @@ LECTURE 3 : if-else and While LOOP.
 
 LECTURE 4 : PATTERNS ( SQUARE , TRAINGLE , STARS , NUMBERIC , ALPHABETICAL , WITH SPACES And DABANGG PATTERN Also!!!)
 
-LECTURE 5 : Bitwise Operators (AND) &,( OR) |,(NOT) ~,(XOR) ^, (Left) << And (Right) >> Shift,(Pre/Post Increment) {++i/++i}, (Pre/Post Decrement) {--i/i--}, For Loop( Print n numbers , Sum of n numbers , Fibonacci Series , Prime Number) , Continue Keyword, Break Keyword, HW Output Questions, Scope of Variables , Operator Precedence, 
+LECTURE 5 : Bitwise Operators (AND) &,( OR) |,(NOT) ~,(XOR) ^, (Left) << And (Right) >> Shift,(Pre/Post Increment) {++i/++i}, (Pre/Post Decrement) {--i/i--}, For Loop( Print n numbers , Sum of n numbers , Fibonacci Series , Prime Number) , Continue Keyword, Break Keyword, HW Output Questions, Scope of Variables , Operator Precedence.
+
 LEETCODE Questions: 
 1. Number of 1 Bits : https://leetcode.com/problems/number-of-1-bits/
 2. Subtract the Product and Sum of Digits of an Integer : https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
