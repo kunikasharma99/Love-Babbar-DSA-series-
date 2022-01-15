@@ -19,3 +19,11 @@ LECTURE 5 : Bitwise Operators (AND) &,( OR) |,(NOT) ~,(XOR) ^, (Left) << And (Ri
 LEETCODE Questions: 
 1. Number of 1 Bits : https://leetcode.com/problems/number-of-1-bits/
 2. Subtract the Product and Sum of Digits of an Integer : https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+
+LECTURE 7 : LEETCODE QUESTIONS 
+
+1. Reverse Integer : https://leetcode.com/problems/reverse... 
+2. Complement base 10 Integer : https://leetcode.com/problems/complem... 
+3. Power of Two : https://leetcode.com/problems/power-o...  
+4. Number Complement : https://leetcode.com/problems/number-complement/
+
