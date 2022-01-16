@@ -23,8 +23,7 @@ LEETCODE Questions:
 LECTURE 6 : 1.) DECIMAL TO BINARY CONVERSION 
           a.)  +ve Decimal Numbers
           b.)  2'Complement of -ve decimal Number and Conversion from Decimal Answer to Binary . 
-          
-      2.)BINARY TO DECIMAL CONVERSION 
+2.) BINARY TO DECIMAL CONVERSION 
           
           
 LECTURE 7 : LEETCODE QUESTIONS 
