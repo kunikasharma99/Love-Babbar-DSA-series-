@@ -20,6 +20,13 @@ LEETCODE Questions:
 1. Number of 1 Bits : https://leetcode.com/problems/number-of-1-bits/
 2. Subtract the Product and Sum of Digits of an Integer : https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 
+LECTURE 6 : 1.) DECIMAL TO BINARY CONVERSION 
+          a.)  +ve Decimal Numbers
+          b.)  2'Complement of -ve decimal Number and Conversion from Decimal Answer to Binary . 
+          
+      2.)BINARY TO DECIMAL CONVERSION 
+          
+          
 LECTURE 7 : LEETCODE QUESTIONS 
 
 1. Reverse Integer : https://leetcode.com/problems/reverse... 
