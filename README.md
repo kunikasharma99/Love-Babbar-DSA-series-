@@ -33,3 +33,7 @@ LECTURE 7 : LEETCODE QUESTIONS
 3. Power of Two : https://leetcode.com/problems/power-o...  
 4. Number Complement : https://leetcode.com/problems/number-complement/
 
+LECTURE 8 : SWITCHES AND FUNCTIONS 
+
+1. Menu Driven Simple Calculator 
+
