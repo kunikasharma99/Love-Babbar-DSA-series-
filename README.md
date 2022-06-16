@@ -36,4 +36,5 @@ LECTURE 7 : LEETCODE QUESTIONS
 LECTURE 8 : SWITCHES AND FUNCTIONS 
 
 1. Menu Driven Simple Calculator 
+2. Some Programs based on usage of functions.
 
