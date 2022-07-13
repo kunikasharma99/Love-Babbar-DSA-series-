@@ -41,4 +41,5 @@ LECTURE 8 : SWITCHES AND FUNCTIONS
 LECTURE 9 : ARRAYS
 
 1. All Leetcode and Coding Ninjas related Array Problems.
-Contains 20 Arrsy Easy, Medium and Hard level Problems.
+
+Contains 20 Array Easy, Medium and Hard level Problems.
