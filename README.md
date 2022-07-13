@@ -38,3 +38,7 @@ LECTURE 8 : SWITCHES AND FUNCTIONS
 1. Menu Driven Simple Calculator 
 2. Some Programs based on usage of functions.
 
+LECTURE 9 : ARRAYS
+
+1. All Leetcode and Coding Ninjas related Array Problems.
+
