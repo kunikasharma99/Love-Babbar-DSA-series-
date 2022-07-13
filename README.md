@@ -43,3 +43,8 @@ LECTURE 9 : ARRAYS
 1. All Leetcode and Coding Ninjas related Array Problems.
 
 Contains 20 Array Easy, Medium and Hard level Problems.
+
+LECTURE 9 : BINARY SEARCH 
+
+1. Covered all the probelms of Easy, Medium and hard/Advanced problems on B.S.
+*Book Allocation problems, Aggressive Cows problems, Painter's wall problem are main highlights.*
